@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaravue=self.webpackChunklaravue||[]).push([[1360],{41360:function(e,r,u){u.r(r),u.d(r,{default:function(){return t}});var n={beforeCreate:function(){var e=this.$route,r=e.params,u=e.query,n=r.path;this.$router.replace({path:"/"+n,query:u})},render:function(e){return e()}},t=(0,u(51900).Z)(n,undefined,undefined,!1,null,null,null).exports}}]);

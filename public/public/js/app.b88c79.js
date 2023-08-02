@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaravue=self.webpackChunklaravue||[]).push([[4457],{44457:function(e,t,l){l.r(t),l.d(t,{default:function(){return n}});var n=(0,l(51900).Z)({},(function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticStyle:{padding:"30px"}},[t("el-alert",{attrs:{closable:!1,title:"menu 2"}})],1)}),[],!1,null,null,null).exports}}]);
